@@ -15,8 +15,13 @@ A *Then* kulcsszó sorában adhatjuk meg a végállapotot.
 Létrehozhatunk *Scenario Outline*-okat, amelyekben konkrét értékek helyére változókat írhatunk, és ezek értékeit az *Examples* kulcsszó után paraméterként megadhatjuk. Így ugyanazt a tesztet könnyen, több értékkel is végrehajthatjuk.
 
 ## Steps
-A step fájlokban adhatjuk meg, az egyes Feature fájl sorokat a program hogy értelmezze.
+A Step fájlokban adhatjuk meg, az egyes Feature fájl sorokat a program hogy értelmezze.
 
 ## RDFGraph
 
 Az *RDFGraph* osztály *Set*, *Add*, *Remove*, *Union* funkcióit teszteltük BDD tesztek segítségével
+
+## Tanulságok
+
+A BDD egy nagyon érdekes módja a tesztelésnek, egy-egy tesztelési lépést elég a Step fájlban egyszer megírni, azt a feature fájlban bárhány Scenarioban felhasználhatjuk.
+A *Scenario Outline* segítségével egy függvény különböző viselkedését könnyen tudjuk tesztelni.
