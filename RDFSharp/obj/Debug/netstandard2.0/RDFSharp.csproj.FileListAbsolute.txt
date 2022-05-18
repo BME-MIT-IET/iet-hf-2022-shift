@@ -1,0 +1,12 @@
+C:\data\Egyetem\IET\iet-hf-2022-shift\RDFSharp\bin\Debug\netstandard2.0\RDFSharp.xml
+C:\data\Egyetem\IET\iet-hf-2022-shift\RDFSharp\bin\Debug\netstandard2.0\RDFSharp.deps.json
+C:\data\Egyetem\IET\iet-hf-2022-shift\RDFSharp\bin\Debug\netstandard2.0\RDFSharp.dll
+C:\data\Egyetem\IET\iet-hf-2022-shift\RDFSharp\bin\Debug\netstandard2.0\RDFSharp.pdb
+C:\data\Egyetem\IET\iet-hf-2022-shift\RDFSharp\obj\Debug\netstandard2.0\RDFSharp.csproj.AssemblyReference.cache
+C:\data\Egyetem\IET\iet-hf-2022-shift\RDFSharp\obj\Debug\netstandard2.0\RDFSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\Egyetem\IET\iet-hf-2022-shift\RDFSharp\obj\Debug\netstandard2.0\RDFSharp.AssemblyInfoInputs.cache
+C:\data\Egyetem\IET\iet-hf-2022-shift\RDFSharp\obj\Debug\netstandard2.0\RDFSharp.AssemblyInfo.cs
+C:\data\Egyetem\IET\iet-hf-2022-shift\RDFSharp\obj\Debug\netstandard2.0\RDFSharp.csproj.CoreCompileInputs.cache
+C:\data\Egyetem\IET\iet-hf-2022-shift\RDFSharp\obj\Debug\netstandard2.0\RDFSharp.sourcelink.json
+C:\data\Egyetem\IET\iet-hf-2022-shift\RDFSharp\obj\Debug\netstandard2.0\RDFSharp.dll
+C:\data\Egyetem\IET\iet-hf-2022-shift\RDFSharp\obj\Debug\netstandard2.0\RDFSharp.pdb

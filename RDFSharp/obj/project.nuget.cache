@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aj0zsPGaplzFXMuqSdjyX/sfSHIt/IDP3cvuDe1XZp+NclSRHZx5j6RGxtFSw4HQwrIxdL2tV34LvySqj1Phjw==",
+  "success": true,
+  "projectFilePath": "C:\\data\\Egyetem\\IET\\iet-hf-2022-shift\\RDFSharp\\RDFSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tivi\\.nuget\\packages\\microsoft.build.tasks.git\\1.1.1\\microsoft.build.tasks.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\Tivi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Tivi\\.nuget\\packages\\microsoft.sourcelink.common\\1.1.1\\microsoft.sourcelink.common.1.1.1.nupkg.sha512",
+    "C:\\Users\\Tivi\\.nuget\\packages\\microsoft.sourcelink.github\\1.1.1\\microsoft.sourcelink.github.1.1.1.nupkg.sha512",
+    "C:\\Users\\Tivi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Tivi\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
