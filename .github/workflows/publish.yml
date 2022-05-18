@@ -24,10 +24,10 @@ jobs:
     - name: Test
       run: dotnet test --no-build --verbosity normal
     - name: Publish
-      run: dotnet publish RDFSharp/RDFSharp.csproj -c Release
+      run: dotnet pack RDFSharp/RDFSharp.csproj --output nuget --configuration RELEASE
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v2.2.2
       with:
         name: nuget-package
-        path: RDFSharp
+        path: nuget
         if-no-files-found: error
