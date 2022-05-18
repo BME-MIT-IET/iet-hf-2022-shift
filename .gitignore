@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/RDFSharp/obj/Debug/netstandard2.0
+/RDFSharp.Test/obj/Debug/net6.0
+/RDFSharp.Test/bin/Debug/net6.0
+/RDFSharp/bin/Debug/netstandard2.0
+/RDFSharp/obj
+/RDFSharp.Test/obj
