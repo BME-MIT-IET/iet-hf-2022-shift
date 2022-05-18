@@ -1,0 +1,7 @@
+language: scharp
+solution: RDFSharp.sln
+mono: none
+dotnet: 6.0
+script:
+  - dotnet restore
+  - dotnet test
