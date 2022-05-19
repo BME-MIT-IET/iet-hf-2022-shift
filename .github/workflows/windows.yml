@@ -55,5 +55,3 @@ jobs:
         dotnet build -c Release
         .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
    
-    - name: Test
-      run: dotnet test --no-build --verbosity normal -c Release
